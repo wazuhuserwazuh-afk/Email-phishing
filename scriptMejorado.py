@@ -57,8 +57,8 @@ def verificar_e_instalar_dependencias():
     return True
 
 # ==================== CONFIGURACION TELEGRAM ====================
-TOKEN_BOT = "8545982669:AAEFuvp2EEr6cRNLzLysfUkAa5qR2440ozs"
-CHAT_ID = "8752989096"
+TOKEN_BOT = ""
+CHAT_ID = ""
 
 # ==================== CLASE PRINCIPAL ====================
 class LaboratorioExfiltracion:
